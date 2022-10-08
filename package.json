@@ -1,0 +1,23 @@
+{
+  "name": "learning-ts",
+  "version": "1.0.0",
+  "description": "Learning TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govorov-top/learning-ts.git"
+  },
+  "author": "Roman Govorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/govorov-top/learning-ts/issues"
+  },
+  "homepage": "https://github.com/govorov-top/learning-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
