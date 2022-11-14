@@ -37,3 +37,5 @@ any = true;
 // Universal - unknown
 let unknown: unknown = 2;
 if (typeof unknown === "string") unknown.toUpperCase();
+
+export {}
